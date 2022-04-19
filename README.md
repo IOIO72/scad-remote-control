@@ -2,8 +2,6 @@
 
 by IOIO72 aka Tamio Patrick Honma (https://honma.de)
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-
 ## Update
 
 2021-11-26: Tablet to attach on top of the hooks added.
@@ -15,6 +13,19 @@ This holder was originally intended for remote controls, which you attach to the
 In addition, it is possible to use the holder for all sorts of other purposes. This is especially possible due to the customizability of the 3D model. For example, you can also configure a holder for tools and material of the 3D printer or something for the garden, the workshop, the garage or the household.
 
 Ultimately, the 3D model is a box, which can be subdivided as desired, and a holding device.
+
+![Remote](Photos/20211205_121756.jpg)
+![Remote](Photos/20211205_121715.jpg)
+![Remote](Photos/20210810_003450.jpg)
+![Remote](Photos/20210810_003321.jpg)
+![Remote](Photos/20210810_003513.jpg)
+![Remote](Photos/20210810_003225.jpg)
+![Remote](Photos/20210810_003215.jpg)
+![Remote](abcdef.png)
+![Remote](screws-nuts-spacer.png)
+![Remote](screws-nuts-spacer_separated.png)
+![Remote](general-4.png)
+
 
 ## Customize
 
@@ -48,14 +59,12 @@ By selecting the parts, you can generate individual STL files for box and hook o
 
 ### Use OpenSCAD
 
-As the Thingiverse customizer has some issues, it's better to use OpenSCAD instead.
-
 1. **Download and install:** [OpenSCAD](http://openscad.org/) version 2021.01 or newer
 2. **Download:** The *.scad file of this model.
 3. **Start** OpenSCAD and **open** the *.scad file in it.
 4. **Open the customizer** via the menu "Window/Customizer"
 
-Now you can configure the model.
+Now you can configure the model and use the `F5` key to render the preview of your changes.
 
 #### Export your STL file
 
@@ -73,12 +82,3 @@ If you like to use your configuration as a template for further models, it's a g
 2. Give your configuration a name.
 
 Use the drop-down menu to access your saved configurations.
-
-### Help others
-
-Since I'm sure you have some good ideas for configuring mounts for various purposes, it would be great if you would share them with us.
-
-Especially for people who do not configure, but only print finished STL files, would certainly be happy about suitable models.
-
-So feel free to share your configurations via Make.
-
